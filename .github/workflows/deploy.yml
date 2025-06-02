@@ -1,4 +1,4 @@
-name: Deploy WebServer via CloudFormation
+name: Deploy new WebServer via CloudFormation
 
 on:
   push:
