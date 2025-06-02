@@ -1,7 +1,7 @@
-name: Deploy new WebServer via CloudFormation
+name: Deploy WebServer via CloudFormation
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main
     paths:
